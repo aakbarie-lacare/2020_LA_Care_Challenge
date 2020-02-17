@@ -1,8 +1,3 @@
----
-title: "L.A. Care Data Science Challenge"
-output: html_document
----
-
 ## Data Science Challenge – The data science cycle
 
  
