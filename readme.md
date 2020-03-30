@@ -16,6 +16,6 @@
 
 4. You will be scored on your understanding of data science cycle, as well as code readability and your code has to be reproducible. If any of the steps are not included in your code, it will result in immediate disqualification.   
 
-5. Finally, you are to push your .R/.RMD file as well as html file to your GitHub via git and invite aakbariesfahani@lacare.org to your repository. You should email Jamessa Jones @ jjones@lacare.org
 
-You have to complete the task in R and return a .R or .RMD file as well as an HTML output
+5. Finally, you are to push your .R/.py file to your GitHub via git and invite aakbariesfahani@lacare.org to your repository. You should email Jamessa Jones @ jjones@lacare.org upon completion of the task
+
